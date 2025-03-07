@@ -71,6 +71,7 @@ Private: This option restricts access to people you specifically grant permissio
 
 
 Important Decisions to Make
+
 Repository Name:
 Choose a descriptive and unique name that reflects the purpose of your project. This makes it easier for others to find and understand your repository.
 
